@@ -110,3 +110,21 @@ An important principle of version control is that you **never** duplicate files.
 Great job! If you comfortably navigated these exercises, then you have the necessary basics for working with git and GitHub. These will get you most of the way through the course, and indeed, through your programming career. The most important topics that we haven't yet discussed are *merging* and *branching*, which are especially relevant when collaborating with others. We may come back to these in a future Discussion activity. 
 
 Another topic that you might find useful to explore on your own is the `.gitignore` file. This file specifies files which should be *excluded* from tracking by git. This is handy if there are certain "junk" files that you would prefer not to see in GitHub Desktop. 
+
+## Zoe's Test
+I am going to be running a test to practice rebase when everything is a little bit messy. The plan is:
+
+Branches:
+- updating-read-me
+- adding-directory
+
+Commit order:
+1. updating-read-me: Add Zoe's test to the read me 
+2. adding-directory: Add a test file
+3. adding-directory: Pull in updating read me commits
+4. updating-read-me: Updating a commit message in the read me
+5. updating-read-me: Push to master
+6. adding-directory: Change title in the readme
+7. adding-directory: Rebase main 
+
+Steps followed to rebase:
