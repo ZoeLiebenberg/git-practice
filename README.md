@@ -1,4 +1,4 @@
-# Practice with git and GitHub
+# Zoe's read me
 
 I'm Zoe Liebenberg and I edited this file!
 
@@ -128,3 +128,12 @@ Commit order:
 7. adding-directory: Rebase main 
 
 Steps followed to rebase:
+Using UI:
+- Click git at the top -> then click rebase
+- type origin/main
+- click rebase
+- run git push --force-with-lease
+- 
+
+
+- git pull origin main --rebase
