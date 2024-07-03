@@ -120,9 +120,9 @@ Branches:
 
 Commit order:
 1. updating-read-me: Add Zoe's test to the read me 
-2. adding-directory: Add a directory called test-directory with test file
+2. adding-directory: Add a test file
 3. adding-directory: Pull in updating read me commits
-4. updating-read-me: Add some more text to the read me 
+4. updating-read-me: Updating a commit message in the read me
 5. updating-read-me: Push to master
 6. adding-directory: Change title in the readme
 7. adding-directory: Rebase main 
